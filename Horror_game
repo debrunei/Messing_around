@@ -1,6 +1,0 @@
-name = input("What is your name")
-print("Okay", name, "You are outside a haunted mansion what do you do"
-Ohmy = "oh no "
-How = input("How panic are you on a scale of one to ten:")
-Hpay = int(How)
-print(Ohmy * Hpay)

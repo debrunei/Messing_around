@@ -1,0 +1,6 @@
+name = input("What is your name:")
+print("okay", name, "You are outside a haunted mansion what do you do go inside the gate or leave?")
+Gate = input("Go inside the gate or leave?")
+print("As you", Gate, "A GHOST POPS UP!")
+ghost_react = input("What do you do?")
+print("Okay when you start", ghost_react, "The ghost goes through you and as you turn around its gone")
